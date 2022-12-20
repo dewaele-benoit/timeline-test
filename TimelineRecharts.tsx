@@ -5,8 +5,8 @@ const data = [
   {
     date: '13:00',
     name: "Lille Flandres",
-    newStop: 2,
-    stop: 1,
+    stop: 2,
+    newStop: 1,
   },
   {
     date: '13:08',
